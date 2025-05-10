@@ -30,7 +30,6 @@ A responsive and modern portal for students to find PG (Paying Guest) accommodat
 ## 🔧 Installation
 
 ```bash
-git clone https://github.com/your-username/pg-listing-portal.git
 cd pg-listing-portal
 npm install
 npm start
